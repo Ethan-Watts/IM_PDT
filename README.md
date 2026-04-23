@@ -1,4 +1,4 @@
-Bearing-Only Target Localisation and Circumnavigation (BoTLC)
+Bearing-Only Target Localisation and Circumnavigation (BoTLC) under Intermittent Measurements
 
 Description:  
 This MATLAB script implements and compares two models for bearing-only target localisation and circumnavigation:
